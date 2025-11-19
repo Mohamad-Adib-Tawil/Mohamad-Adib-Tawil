@@ -1,109 +1,138 @@
-<h1 align="center">👋 Hi, I'm Mohamad Adib Tawil</h1>
-<h3 align="center">Flutter Developer | 3+ Years Experience | Real-Time Apps & Performance Engineering</h3>
+<!-- HEADER -->
+<h1 align="center">👋 Hey, I'm <span style="color:#4da6ff">Mohamad Adib Tawil</span></h1>
+<h3 align="center">Senior Flutter Developer • Real-time Systems • Performance Engineering</h3>
 
 <p align="center">
-  <a href="mailto:mohamad.adib.tawil@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/mohamad-adib-tawil">LinkedIn</a> •
-  <a href="https://github.com/mohamad-adib-tawil">GitHub</a> •
-  <a href="https://mohamad-adib-tawil.github.io/CV/">My CV</a>
+  <a href="mailto:mohamad.adib.tawil@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/mohamad-adib-tawil"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/mohamad-adib-tawil"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github"></a>
+  <a href="https://mohamad-adib-tawil.github.io/CV/"><img src="https://img.shields.io/badge/CV-View_Online-4da6ff?style=flat&logo=readme"></a>
 </p>
 
 ---
 
 ## 🚀 About Me
-Flutter developer with **3+ years** building production-grade apps from scratch.  
-Delivered **4+ published apps** with **1000+ total downloads**, strong performance results, and end-to-end architecture.
+Flutter developer with **3+ years** of hands-on experience building scalable, production-ready mobile apps.
 
-Built full systems including:
-- Real-time chat & live audio streaming (Zego Cloud)
-- Clean Architecture apps with 260+ features
-- Offline-first systems with advanced caching & OCR
-- CI/CD pipelines with GitHub Actions & Fastlane
+Delivered:
+- **4 published apps** (1000+ downloads)
+- **Real-time audio & chat** using Zego Cloud
+- **Offline-first OCR systems** (Arabic + English)
+- **Clean Architecture apps with 250+ features**
+- **CI/CD pipelines** using GitHub Actions + Fastlane
 
----
-
-## 🏆 Quick Stats
-- **3+ Years** Flutter Dev Experience  
-- **5+ Apps Built**  
-- **1000+ Downloads**  
-- **4.0+ Average Rating**  
-- **99.9% Uptime** in production apps  
-- **Up to 60% RAM reduction** in performance optimization  
-- **Up to 100% FPS improvement**  
+Focused on performance, reliability, and clean scalable architecture.
 
 ---
 
-## 🔥 Featured Projects
+## 📊 Quick Overview
 
-### **Iklk – Live Audio & Chat App**
-Real-time audio rooms with 1000+ concurrent users.  
-Optimized RAM by 60% and FPS by 100%.  
-Tech: Flutter, Zego Cloud, WebSocket, Appwrite, Smart Caching  
-🔗 *Private Code / Production App*
-
----
-
-### **Wolfera – Car Marketplace**
-Full marketplace system with **260+ features** across 10 modules.  
-Realtime chat, Supabase Auth, image optimization, bilingual UI.  
-Tech: Flutter, Supabase, BLoC, Dio, GetIt  
-🔗 *Private Code / Production App*
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-3%2B_Years-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Downloads-1000%2B-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Apps-4_Production-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Rating-4.0%2B-yellow?style=for-the-badge">
+</p>
 
 ---
 
-### **Code Book – Reading App**
-Offline-first architecture using Hive, Clean Architecture layers, retry logic, WebView previews.  
-Tech: Flutter, Hive, Dio, GetIt  
+## 🏆 Featured Projects
+
+### 🔹 **Iklk — Live Audio App**
+**1000+ concurrent users**, <100ms latency, 60% RAM reduction, 100% FPS boost.  
+Tech: Flutter • Zego Cloud • WebSockets • Appwrite • Smart Caching  
 🔗 *Production App*
 
 ---
 
-### **Office Archiving – OCR System**
-Offline OCR (Arabic/English) with 90%+ accuracy.  
-AI translation, PDF parsing, image preprocessing, SQLite migrations.  
-Tech: ML Kit, Tesseract, Flutter, SQLite  
+### 🔹 **Wolfera — Car Marketplace**
+260+ features, bilingual UI, Supabase Auth, realtime chat.  
+Tech: Flutter • Supabase • Dio • GetIt • BLoC  
+🔗 *Production App*
+
+---
+
+### 🔹 **Office Archiving — OCR System**
+Offline OCR (Arabic/English), AI translation, PDF parsing, SQLite migrations.  
+Tech: Flutter • ML Kit • Tesseract • SQLite  
+🔗 *Production App*
+
+---
+
+### 🔹 **Code Book — Reading App**
+Offline-first architecture with Clean Architecture + Hive caching.  
+Tech: Flutter • Hive • Dio • WebView  
 🔗 *Production App*
 
 ---
 
 ## 🧠 Core Skills
 
-**Flutter & Dart (Expert)**  
-Clean Architecture, SOLID, 260+ feature files  
-**State Management:** BLoC, Cubit, Streams  
-**Realtime Systems:** Zego Cloud, WebSocket, Supabase Realtime  
-**Backend Integration:** Supabase, Firebase, Appwrite, REST  
-**AI/OCR:** ML Kit, Tesseract, preprocessing pipelines  
-**Performance Optimization:** Memory/FPS tuning, caching layers  
-**DevOps:** CI/CD, Fastlane, GitHub Actions, Flavors  
+### 🔧 ***Flutter & Architecture***
+- Flutter & Dart (Expert)
+- Clean Architecture & SOLID
+- BLoC / Cubit / Streams
+- Modular + scalable architecture design
+
+### 🔥 ***Real-time & Backend***
+- Zego Cloud (live audio / gifts)
+- Supabase (Auth + Realtime + Storage)
+- Firebase (FCM, Firestore, Remote Config)
+- Appwrite, REST APIs, WebSockets
+
+### 📸 ***AI / OCR / Image Processing***
+- ML Kit OCR
+- Tesseract OCR (AR/EN)
+- Preprocessing pipelines (deskew, threshold, denoise)
+- Text analysis & translation
+
+### ⚡ ***Performance Engineering***
+- Memory optimization (up to 60%)
+- FPS boosts (up to 2x)
+- Smart caching layers
+- Adaptive performance modes
+
+### 🔐 ***Security & DevOps***
+- Certificate pinning
+- OAuth 2.0 flows
+- CI/CD with GitHub Actions + Fastlane
+- Automated builds / flavors / code signing
 
 ---
 
-## 🧩 Advanced Skills
-- Adaptive performance modes  
-- Virtual scrolling & object pooling  
-- DI (GetIt / Injectable)  
-- Secure architecture (certificate pinning, OAuth 2.0)  
-- Offline-first systems with caching + sync  
+## 🧩 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,sqlite,git,github,linux,apple,androidstudio,vscode,postman&theme=light" />
+</p>
 
 ---
 
-## 🎯 Services I Offer
-- Full mobile app development (iOS/Android)  
-- Real-time chat & live audio/video features  
-- OCR & AI integrations  
-- High-performance architecture for large apps  
-- Backend setup: Supabase, Firebase, Appwrite  
-- CI/CD pipelines for automated deployments  
+## 🎯 Services I Provide
+- Full mobile app development (iOS + Android)
+- Live audio/video features
+- Real-time chat systems
+- OCR • AI • ML integrations
+- Offline-first architecture
+- Performance optimization
+- CI/CD automation
+- Backend architecture (Supabase / Firebase / Appwrite)
 
 ---
 
 ## 🌍 Languages
 - Arabic (Native)  
-- English (Professional)  
+- English (Professional)
 
 ---
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <b>📬 Available for Remote Work & Freelance Collaboration</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamad-adib-tawil&show_icons=true&theme=default" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamad-adib-tawil&theme=default" height="160">
 </p>
+
+---
+
+<p align="center">💼 Available for Remote Work & Freelance</p>
