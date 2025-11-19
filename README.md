@@ -126,13 +126,4 @@ Tech: Flutter • Hive • Dio • WebView
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamad-adib-tawil&show_icons=true&theme=default" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamad-adib-tawil&theme=default" height="160">
-</p>
-
----
-
 <p align="center">💼 Available for Remote Work & Freelance</p>
