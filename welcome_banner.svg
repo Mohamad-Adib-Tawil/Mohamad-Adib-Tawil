@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Welcome banner: Mohamad Adib Tawil - Senior Flutter Developer">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="60%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#0ea5b7"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0ea5b7" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="320" rx="24" ry="24" fill="url(#g)"/>
+
+  <!-- Accent top corner -->
+  <circle cx="1140" cy="-40" r="140" fill="#22d3ee" opacity="0.12"/>
+
+  <!-- Main title -->
+  <text x="50%" y="44%" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#e6faff" filter="url(#shadow)">
+    Mohamad Adib Tawil
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="62%" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="500" fill="#e2e8f0">
+    Senior Flutter Developer
+  </text>
+
+  <!-- Tech highlights -->
+  <text x="50%" y="76%" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#cbd5e1" opacity="0.95">
+    BLoC • Supabase • Appwrite • CI/CD • Performance Engineering
+  </text>
+</svg>
