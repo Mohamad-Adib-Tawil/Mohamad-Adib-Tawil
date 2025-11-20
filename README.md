@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="assets/welcome_banner.svg" alt="Welcome banner" width="100%"/>
+<img src="welcome_banner.svg" alt="Welcome banner" width="100%"/>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <details>
