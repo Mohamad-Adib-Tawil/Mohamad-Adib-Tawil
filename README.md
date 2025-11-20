@@ -1,13 +1,11 @@
 <div align="center" width="50">
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/> <br>
+<img src="assets/welcome_banner.svg" alt="Welcome banner" width="100%"/>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-<!-- Optional Spotify widget (disabled by default) -->
-<!-- [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) -->
 
 </details>
 
