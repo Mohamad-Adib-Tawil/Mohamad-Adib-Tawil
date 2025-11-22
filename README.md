@@ -3,7 +3,7 @@
 <img src="welcome_banner.svg" alt="Welcome banner" width="100%"/>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-<details>
+<details> 
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
 
@@ -28,23 +28,21 @@
 <hr/>
 
 # Mohamad Adib Tawil
-
 - Flutter Developer • Open to Full‑time/Contract • Available for Freelance
 - Email: [mohamad.adib.tawil@gmail.com](mailto:mohamad.adib.tawil@gmail.com)
 - LinkedIn: [mohamad-adib-tawil](https://www.linkedin.com/in/mohamad-adib-tawil-54024b314/)
 - GitHub: [Mohamad-Adib-Tawil](https://github.com/Mohamad-Adib-Tawil)
 
-## Professional Summary
-
-Senior Flutter Developer with 3+ years delivering production apps end-to-end across social audio, OCR automation, and marketplace domains. Specialized in clean architecture (BLoC/Cubit, GetIt), backend integrations (Supabase, Firebase, Appwrite), and performance engineering (memory −60%, FPS +100%). Proven at scaling real-time features for 1000+ concurrent users and building offline-capable OCR/translation pipelines.
-
----
+  ## Professional Summary
+  
+  Mid-level Flutter Developer with 3+ years delivering production apps end-to-end across social audio, OCR automation, and marketplace domains. Specialized in clean architecture (BLoC/Cubit, GetIt), backend integrations (Supabase, Firebase, Appwrite), and performance engineering (memory −60%, FPS +100%). Proven at scaling real-time features for 1000+ concurrent users and building offline-capable OCR/translation pipelines.
+  
+  ---
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-29B6F6?style=flat&logo=flutter&logoColor=white)
 ![GetIt](https://img.shields.io/badge/GetIt-0A84FF?style=flat&logo=flutter&logoColor=white)
 ![Zego Cloud](https://img.shields.io/badge/Zego%20Cloud-6A5ACD?style=flat)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
