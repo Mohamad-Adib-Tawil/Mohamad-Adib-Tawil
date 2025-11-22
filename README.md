@@ -5,7 +5,6 @@
 <details> 
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-
 </details>
   
   [![email badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamad.adib.tawil@gmail.com)
@@ -17,11 +16,11 @@
 - LinkedIn: [mohamad-adib-tawil](https://www.linkedin.com/in/mohamad-adib-tawil-54024b314/)
 - GitHub: [Mohamad-Adib-Tawil](https://github.com/Mohamad-Adib-Tawil)
 
-  ## Professional Summary
-  
-  Mid-level Flutter Developer with 3+ years delivering production apps end-to-end across social audio, OCR automation, and marketplace domains. Specialized in clean architecture (BLoC/Cubit, GetIt), backend integrations (Supabase, Firebase, Appwrite), and performance engineering (memory −60%, FPS +100%). Proven at scaling real-time features for 1000+ concurrent users and building offline-capable OCR/translation pipelines.
-  
-  ---
+## Professional Summary
+
+Mid-level Flutter Developer with 3+ years delivering production apps end-to-end across social audio, OCR automation, and marketplace domains. Specialized in clean architecture (BLoC/Cubit, GetIt), backend integrations (Supabase, Firebase, Appwrite), and performance engineering (memory −60%, FPS +100%). Proven at scaling real-time features for 1000+ concurrent users and building offline-capable OCR/translation pipelines.
+
+---
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -140,7 +139,6 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
 <div align="center" width="50">
-
 
 </div>
 
