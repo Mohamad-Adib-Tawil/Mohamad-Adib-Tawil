@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="secondaryTitle secondaryDescription">
+  <title id="secondaryTitle">More production work</title>
+  <desc id="secondaryDescription">Editorial cards for Quran Ahmed Karasi and Book Code applications.</desc>
+  <defs>
+    <linearGradient id="secondaryBg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#0E1727"/><stop offset=".5" stop-color="#070A10"/><stop offset="1" stop-color="#11110A"/></linearGradient>
+    <radialGradient id="goldGlow" cx="0" cy="0" r="1" gradientTransform="translate(1020 90) rotate(140) scale(340 280)" gradientUnits="userSpaceOnUse"><stop stop-color="#FBBF24" stop-opacity=".13"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></radialGradient>
+    <style>.wave{animation:wave 3.4s ease-in-out infinite;transform-origin:center}.book{animation:book 5s ease-in-out infinite;transform-origin:center}@keyframes wave{0%,100%{transform:scaleY(.65);opacity:.5}50%{transform:scaleY(1);opacity:1}}@keyframes book{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+  </defs>
+  <rect width="1200" height="390" rx="28" fill="url(#secondaryBg)"/><rect width="1200" height="390" rx="28" fill="url(#goldGlow)"/><rect x="1" y="1" width="1198" height="388" rx="27" stroke="#94A3B8" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M600 44V346" stroke="#94A3B8" stroke-opacity=".16"/>
+
+  <g transform="translate(52 46)">
+    <text fill="#67E8F9" font-family="ui-monospace, monospace" font-size="12" font-weight="700" letter-spacing="2">04 / AUDIO EXPERIENCE</text>
+    <text y="53" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="31" font-weight="700">Quran Ahmed Karasi</text>
+    <text y="84" fill="#8D9BAE" font-family="Inter, sans-serif" font-size="15">Offline reader · Production on iOS + Android</text>
+    <g transform="translate(0 124)" fill="#67E8F9">
+      <rect class="wave" x="0" y="26" width="5" height="28" rx="2"/><rect class="wave" x="14" y="16" width="5" height="48" rx="2" style="animation-delay:.2s"/><rect class="wave" x="28" y="6" width="5" height="68" rx="2" style="animation-delay:.4s"/><rect class="wave" x="42" y="20" width="5" height="40" rx="2" style="animation-delay:.6s"/><rect class="wave" x="56" y="11" width="5" height="58" rx="2" style="animation-delay:.8s"/><rect class="wave" x="70" y="27" width="5" height="26" rx="2" style="animation-delay:1s"/>
+    </g>
+    <text x="112" y="163" fill="#D8E0EA" font-family="Inter, sans-serif" font-size="16">Explicit 8-phase audio state machine</text><text x="112" y="190" fill="#8D9BAE" font-family="Inter, sans-serif" font-size="13">focus · repeat · sleep timer · secure URLs</text>
+    <rect y="232" width="112" height="32" rx="16" fill="#67E8F9" fill-opacity=".08" stroke="#67E8F9" stroke-opacity=".3"/><text x="56" y="253" text-anchor="middle" fill="#A5F3FC" font-family="ui-monospace, monospace" font-size="11">JUST_AUDIO</text>
+    <rect x="124" y="232" width="92" height="32" rx="16" fill="#67E8F9" fill-opacity=".08" stroke="#67E8F9" stroke-opacity=".3"/><text x="170" y="253" text-anchor="middle" fill="#A5F3FC" font-family="ui-monospace, monospace" font-size="11">CUBIT</text>
+  </g>
+
+  <g transform="translate(650 46)">
+    <text fill="#FBBF24" font-family="ui-monospace, monospace" font-size="12" font-weight="700" letter-spacing="2">05 / CLEAN ARCHITECTURE</text>
+    <text y="53" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="31" font-weight="700">Book Code</text>
+    <text y="84" fill="#8D9BAE" font-family="Inter, sans-serif" font-size="15">Offline-first digital library · Reference build</text>
+    <g class="book" transform="translate(0 122)">
+      <path d="M8 15C31 7 53 8 76 20V88C53 76 31 76 8 84V15Z" fill="#FBBF24" fill-opacity=".13" stroke="#FBBF24" stroke-opacity=".5"/>
+      <path d="M76 20C99 8 121 7 144 15V84C121 76 99 76 76 88V20Z" fill="#FBBF24" fill-opacity=".07" stroke="#FBBF24" stroke-opacity=".5"/>
+      <path d="M76 20V88" stroke="#FDE68A" stroke-opacity=".7"/>
+    </g>
+    <text x="178" y="163" fill="#D8E0EA" font-family="Inter, sans-serif" font-size="16">Instant cache + typed failures</text><text x="178" y="190" fill="#8D9BAE" font-family="Inter, sans-serif" font-size="13">retry · search debounce · infinite scroll</text>
+    <rect y="232" width="82" height="32" rx="16" fill="#FBBF24" fill-opacity=".07" stroke="#FBBF24" stroke-opacity=".28"/><text x="41" y="253" text-anchor="middle" fill="#FDE68A" font-family="ui-monospace, monospace" font-size="11">HIVE</text>
+    <rect x="94" y="232" width="82" height="32" rx="16" fill="#FBBF24" fill-opacity=".07" stroke="#FBBF24" stroke-opacity=".28"/><text x="135" y="253" text-anchor="middle" fill="#FDE68A" font-family="ui-monospace, monospace" font-size="11">DIO</text>
+    <rect x="188" y="232" width="92" height="32" rx="16" fill="#FBBF24" fill-opacity=".07" stroke="#FBBF24" stroke-opacity=".28"/><text x="234" y="253" text-anchor="middle" fill="#FDE68A" font-family="ui-monospace, monospace" font-size="11">DARTZ</text>
+  </g>
+</svg>

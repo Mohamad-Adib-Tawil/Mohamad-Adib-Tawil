@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="architectureTitle architectureDescription">
+  <title id="architectureTitle">Production mobile architecture</title>
+  <desc id="architectureDescription">Animated flow from product experience through presentation, domain, data, and platform services.</desc>
+  <defs>
+    <linearGradient id="archBg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#070A10"/>
+      <stop offset="1" stop-color="#061417"/>
+    </linearGradient>
+    <linearGradient id="archLine" x1="118" y1="202" x2="1084" y2="202" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C084FC"/>
+      <stop offset="0.5" stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <pattern id="archGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#CBD5E1" stroke-opacity="0.035"/>
+    </pattern>
+    <filter id="nodeGlow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+    <style>
+      .flow { stroke-dasharray: 10 12; animation: flow 7s linear infinite; }
+      .node { animation: node 3.2s ease-in-out infinite; transform-origin: center; }
+      .node-b { animation-delay: .8s; }.node-c { animation-delay: 1.6s; }.node-d { animation-delay: 2.4s; }
+      @keyframes flow { to { stroke-dashoffset: -176; } }
+      @keyframes node { 0%,100% { opacity:.55; } 50% { opacity:1; } }
+      @media (prefers-reduced-motion: reduce) { * { animation:none !important; } }
+    </style>
+  </defs>
+  <rect width="1200" height="380" rx="28" fill="url(#archBg)"/>
+  <rect width="1200" height="380" rx="28" fill="url(#archGrid)"/>
+  <rect x="1" y="1" width="1198" height="378" rx="27" stroke="#94A3B8" stroke-opacity="0.18" stroke-width="2"/>
+  <text x="62" y="64" fill="#67E8F9" font-family="ui-monospace, monospace" font-size="12" font-weight="700" letter-spacing="2.2">SYSTEM DESIGN / PRODUCTION PATH</text>
+  <text x="62" y="104" fill="#F8FAFC" font-family="Inter, Segoe UI, sans-serif" font-size="28" font-weight="700">From product intent to a resilient mobile release</text>
+  <path class="flow" d="M113 214H1087" stroke="url(#archLine)" stroke-opacity="0.55" stroke-width="2"/>
+
+  <g transform="translate(64 165)">
+    <rect width="190" height="98" rx="20" fill="#FFFFFF" fill-opacity="0.035" stroke="#C084FC" stroke-opacity="0.4"/>
+    <text x="20" y="34" fill="#F1E8FF" font-family="Inter, sans-serif" font-size="15" font-weight="700">EXPERIENCE</text>
+    <text x="20" y="60" fill="#8997AA" font-family="ui-monospace, monospace" font-size="11">Responsive · RTL</text>
+    <text x="20" y="79" fill="#8997AA" font-family="ui-monospace, monospace" font-size="11">Material 3</text>
+  </g>
+  <g transform="translate(285 165)">
+    <rect width="190" height="98" rx="20" fill="#FFFFFF" fill-opacity="0.035" stroke="#818CF8" stroke-opacity="0.4"/>
+    <text x="20" y="34" fill="#EEF2FF" font-family="Inter, sans-serif" font-size="15" font-weight="700">PRESENTATION</text>
+    <text x="20" y="60" fill="#8997AA" font-family="ui-monospace, monospace" font-size="11">BLoC · Cubit</text>
+    <text x="20" y="79" fill="#8997AA" font-family="ui-monospace, monospace" font-size="11">Predictable state</text>
+  </g>
+  <g transform="translate(506 165)">
+    <rect width="190" height="98" rx="20" fill="#FFFFFF" fill-opacity="0.035" stroke="#67E8F9" stroke-opacity="0.45"/>
+    <text x="20" y="34" fill="#ECFEFF" font-family="Inter, sans-serif" font-size="15" font-weight="700">DOMAIN</text>
+    <text x="20" y="60" fill="#8997AA" font-family="ui-monospace, monospace" font-size="11">Use cases · SOLID</text>
+    <text x="20" y="79" fill="#8997AA" font-family="ui-monospace, monospace" font-size="11">Typed failures</text>
+  </g>
+  <g transform="translate(727 165)">
+    <rect width="190" height="98" rx="20" fill="#FFFFFF" fill-opacity="0.035" stroke="#2DD4BF" stroke-opacity="0.42"/>
+    <text x="20" y="34" fill="#ECFDF5" font-family="Inter, sans-serif" font-size="15" font-weight="700">DATA</text>
+    <text x="20" y="60" fill="#8997AA" font-family="ui-monospace, monospace" font-size="11">Repositories · Cache</text>
+    <text x="20" y="79" fill="#8997AA" font-family="ui-monospace, monospace" font-size="11">Retry · Pagination</text>
+  </g>
+  <g transform="translate(948 165)">
+    <rect width="190" height="98" rx="20" fill="#FFFFFF" fill-opacity="0.035" stroke="#34D399" stroke-opacity="0.42"/>
+    <text x="20" y="34" fill="#ECFDF5" font-family="Inter, sans-serif" font-size="15" font-weight="700">PLATFORM</text>
+    <text x="20" y="60" fill="#8997AA" font-family="ui-monospace, monospace" font-size="11">Android · iOS</text>
+    <text x="20" y="79" fill="#8997AA" font-family="ui-monospace, monospace" font-size="11">Stores · CI/CD</text>
+  </g>
+
+  <g fill="#E2E8F0">
+    <circle class="node" cx="269" cy="214" r="4" filter="url(#nodeGlow)"/><circle cx="269" cy="214" r="3"/>
+    <circle class="node node-b" cx="490" cy="214" r="4" filter="url(#nodeGlow)"/><circle cx="490" cy="214" r="3"/>
+    <circle class="node node-c" cx="711" cy="214" r="4" filter="url(#nodeGlow)"/><circle cx="711" cy="214" r="3"/>
+    <circle class="node node-d" cx="932" cy="214" r="4" filter="url(#nodeGlow)"/><circle cx="932" cy="214" r="3"/>
+  </g>
+  <text x="62" y="328" fill="#6F7E92" font-family="ui-monospace, monospace" font-size="11" letter-spacing="1.25">OBSERVABLE  ·  TESTABLE  ·  OFFLINE-CAPABLE  ·  SECURE  ·  READY TO SHIP</text>
+</svg>
