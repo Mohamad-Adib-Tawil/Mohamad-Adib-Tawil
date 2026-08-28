@@ -184,7 +184,7 @@
 ### GitHub signal
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamad-Adib-Tawil&amp;theme=github_dark" width="100%" alt="Mohamad's GitHub profile details" />
+  <img src="./assets/github-journey.svg" width="100%" alt="Mohamad's GitHub journey since 2021" />
 </div>
 
 <details>
