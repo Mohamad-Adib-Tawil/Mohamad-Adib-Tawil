@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./welcome_banner.svg" alt="Mohamad Adib Tawil — Flutter Developer and Mobile Application Engineer" width="100%" />
+  <img src="./welcome_banner.svg?v=2" alt="Mohamad Adib Tawil — Flutter Developer and Mobile Application Engineer" width="100%" />
 </div>
 
 <p align="center">
