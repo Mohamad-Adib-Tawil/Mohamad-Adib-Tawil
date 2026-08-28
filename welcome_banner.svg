@@ -1,33 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Welcome banner: Mohamad Adib Tawil - Mid-level Flutter Developer">
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Mohamad Adib Tawil — Flutter Developer and Mobile Application Engineer</title>
+  <desc id="description">A premium dark editorial banner highlighting four years of experience, five-plus production applications, and Android and iOS delivery.</desc>
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="60%" stop-color="#0b1220"/>
-      <stop offset="100%" stop-color="#0ea5b7"/>
+    <linearGradient id="background" x1="72" y1="18" x2="1128" y2="402" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.52" stop-color="#070B12"/>
+      <stop offset="1" stop-color="#091318"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0ea5b7" flood-opacity="0.25"/>
+    <linearGradient id="accent" x1="86" y1="80" x2="1060" y2="352" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1060 48) rotate(132) scale(390 310)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
     </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#E2E8F0" stroke-opacity="0.035"/>
+    </pattern>
   </defs>
-
-  <rect x="0" y="0" width="1200" height="320" rx="24" ry="24" fill="url(#g)"/>
-
-  <!-- Accent top corner -->
-  <circle cx="1140" cy="-40" r="140" fill="#22d3ee" opacity="0.12"/>
-
-  <!-- Main title -->
-  <text x="50%" y="44%" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#e6faff" filter="url(#shadow)">
-    Mohamad Adib Tawil
-  </text>
-
-  <!-- Subtitle -->
-  <text x="50%" y="62%" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="500" fill="#e2e8f0">
-    Mid-level Flutter Developer
-  </text>
-
-  <!-- Tech highlights -->
-  <text x="50%" y="76%" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#cbd5e1" opacity="0.95">
-    BLoC • Supabase • Appwrite • CI/CD • Performance Engineering
-  </text>
+  <rect width="1200" height="420" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#glow)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#grid)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="418.5" rx="27.25" stroke="#94A3B8" stroke-opacity="0.22" stroke-width="1.5"/>
+  <circle cx="1090" cy="-20" r="118" fill="#22D3EE" fill-opacity="0.08" filter="url(#softGlow)"/>
+  <path d="M86 72H214" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <text x="86" y="59" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="3">MOBILE ENGINEERING · FLUTTER</text>
+  <text x="82" y="146" fill="#F8FAFC" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="54" font-weight="750" letter-spacing="-1.6">Mohamad Adib Tawil</text>
+  <text x="85" y="187" fill="url(#accent)" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="0.2">Flutter Developer · Mobile Application Engineer</text>
+  <text x="85" y="230" fill="#CBD5E1" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="400">Production mobile systems · Real-time experiences · Offline-first architecture</text>
+  <g transform="translate(82 278)">
+    <rect width="202" height="88" rx="16" fill="#FFFFFF" fill-opacity="0.035" stroke="#94A3B8" stroke-opacity="0.18"/>
+    <text x="18" y="37" fill="#F8FAFC" font-family="Inter, Segoe UI, sans-serif" font-size="26" font-weight="700">4 years</text>
+    <text x="18" y="63" fill="#94A3B8" font-family="Inter, Segoe UI, sans-serif" font-size="13" letter-spacing="0.8">PRODUCTION EXPERIENCE</text>
+  </g>
+  <g transform="translate(300 278)">
+    <rect width="202" height="88" rx="16" fill="#FFFFFF" fill-opacity="0.035" stroke="#94A3B8" stroke-opacity="0.18"/>
+    <text x="18" y="37" fill="#F8FAFC" font-family="Inter, Segoe UI, sans-serif" font-size="26" font-weight="700">5+ apps</text>
+    <text x="18" y="63" fill="#94A3B8" font-family="Inter, Segoe UI, sans-serif" font-size="13" letter-spacing="0.8">SHIPPED END TO END</text>
+  </g>
+  <g transform="translate(518 278)">
+    <rect width="202" height="88" rx="16" fill="#FFFFFF" fill-opacity="0.035" stroke="#94A3B8" stroke-opacity="0.18"/>
+    <text x="18" y="37" fill="#F8FAFC" font-family="Inter, Segoe UI, sans-serif" font-size="26" font-weight="700">5K+</text>
+    <text x="18" y="63" fill="#94A3B8" font-family="Inter, Segoe UI, sans-serif" font-size="13" letter-spacing="0.8">LKLK DOWNLOADS</text>
+  </g>
+  <g transform="translate(736 278)">
+    <rect width="382" height="88" rx="16" fill="#FFFFFF" fill-opacity="0.035" stroke="#94A3B8" stroke-opacity="0.18"/>
+    <text x="18" y="37" fill="#F8FAFC" font-family="Inter, Segoe UI, sans-serif" font-size="23" font-weight="700">Android · iOS</text>
+    <text x="18" y="63" fill="#94A3B8" font-family="Inter, Segoe UI, sans-serif" font-size="13" letter-spacing="0.8">ARCHITECTURE TO STORE RELEASE</text>
+    <circle cx="345" cy="44" r="13" fill="#34D399" fill-opacity="0.12" stroke="#34D399" stroke-opacity="0.5"/>
+    <path d="M339 44L343 48L351 39" stroke="#6EE7B7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M1120 82V221" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
+  <text x="1130" y="219" transform="rotate(-90 1130 219)" fill="#64748B" font-family="ui-monospace, SFMono-Regular, monospace" font-size="11" letter-spacing="2.2">CLEAN · SCALABLE · SHIPPED</text>
 </svg>

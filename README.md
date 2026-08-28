@@ -1,145 +1,136 @@
-<div align="center" width="50">
-
-<img src="welcome_banner.svg" alt="Welcome banner" width="100%"/>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
-<details> 
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-</details>
-  
-  [![email badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamad.adib.tawil@gmail.com)
-  [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-adib-tawil-54024b314/)
-  [![github badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mohamad-Adib-Tawil)
-  [![website badge](https://img.shields.io/badge/Website-CV-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://mohamad-adib-tawil.github.io/CV/)
-- Flutter Developer • Open to Full‑time/Contract • Available for Freelance
-- Email: [mohamad.adib.tawil@gmail.com](mailto:mohamad.adib.tawil@gmail.com)
-- LinkedIn: [mohamad-adib-tawil](https://www.linkedin.com/in/mohamad-adib-tawil-54024b314/)
-- GitHub: [Mohamad-Adib-Tawil](https://github.com/Mohamad-Adib-Tawil)
-
-## Professional Summary
-
-Mid-level Flutter Developer with 3+ years delivering production apps end-to-end across social audio, OCR automation, and marketplace domains. Specialized in clean architecture (BLoC/Cubit, GetIt), backend integrations (Supabase, Firebase, Appwrite), and performance engineering (memory −60%, FPS +100%). Proven at scaling real-time features for 1000+ concurrent users and building offline-capable OCR/translation pipelines.
+<div align="center">
+  <img src="welcome_banner.svg" alt="Mohamad Adib Tawil — Flutter Developer and Mobile Application Engineer" width="100%" />
+  <br />
+  <br />
+  <a href="mailto:mohamad.adib.tawil@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&amp;logo=gmail&amp;logoColor=67E8F9" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mohamad-adib-tawil-54024b314/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&amp;logo=linkedin&amp;logoColor=67E8F9" alt="LinkedIn" /></a>
+  <a href="https://github.com/Mohamad-Adib-Tawil"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&amp;logo=github&amp;logoColor=67E8F9" alt="GitHub" /></a>
+  <p><strong>Flutter Developer · Mobile Application Engineer</strong></p>
+  <p>Open to full-time, contract, and selected freelance opportunities.</p>
+</div>
 
 ---
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![GetIt](https://img.shields.io/badge/GetIt-0A84FF?style=flat&logo=flutter&logoColor=white)
-![Zego Cloud](https://img.shields.io/badge/Zego%20Cloud-6A5ACD?style=flat)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Appwrite](https://img.shields.io/badge/Appwrite-EF2D5E?style=flat&logo=appwrite&logoColor=white)
-![Dio](https://img.shields.io/badge/Dio-0A66C2?style=flat)
-![Hive](https://img.shields.io/badge/Hive-FFB300?style=flat)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+### Engineering mobile products from architecture to store release
 
-```dart
-// tools_I_use organized (Flutter-centric)
-class About extends Me {
-  const myTools = {
-    "ProgrammingLanguages": {"Dart"},
-    "Architecture": {"Clean Architecture", "Repository", "SOLID", "DI (GetIt)"},
-    "StateManagement": {"BLoC", "Cubit"},
-    "Networking": {"Dio", "REST", "WebSocket"},
-    "Realtime": {"Zego Cloud", "Supabase Realtime"},
-    "Backend": {"Supabase", "Firebase", "Appwrite"},
-    "Storage": {"Hive", "SQLite"},
-    "AI_OCR": {"ML Kit", "Tesseract"},
-    "DevOps": {"GitHub Actions", "Fastlane", "Flavors"}
-  };
-}
-```
+I am a Flutter developer with **4 years of experience** designing, building, and shipping production applications for Android and iOS. My work spans real-time social audio, bilingual marketplaces, offline document intelligence, and content platforms—including a live audio product that surpassed **5,000 downloads**.
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" /> &nbsp; Currently focusing on performance optimization, CI/CD and scalable real-time features.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Enjoy building multilingual, responsive UIs with Flutter.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about Flutter, BLoC, Supabase, Appwrite, architecture.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Connect on LinkedIn: **[Mohamad Adib Tawil](https://www.linkedin.com/in/mohamad-adib-tawil-54024b314/)**
+I focus on systems that stay maintainable after launch: feature-based Clean Architecture, predictable BLoC/Cubit state, typed failures, resilient networking, offline-first data flows, performance tuning, and secure release pipelines.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ Product Engineering</h3>
+      Requirements, architecture, responsive UI, backend integration, performance, and release ownership across the full mobile lifecycle.
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ Real-time Systems</h3>
+      Live audio, chat, virtual gifts, reconnect strategies, WebSockets, ZEGOCLOUD, LiveKit, ZIM, and Supabase Realtime.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ Offline Intelligence</h3>
+      Arabic/English OCR, on-device ML, PDF workflows, SQLite search, caching, pagination, and background processing.
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ Production Quality</h3>
+      Flavors, secure configuration, Crashlytics, ProGuard/R8, code generation, app-store delivery, and post-launch iteration.
+    </td>
+  </tr>
+</table>
+
+### Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>LKLK</h3>
+      <p><strong>Real-time social audio · Production</strong></p>
+      <p>Architected for up to 500 listeners and 20 mic seats per room. Integrated ZEGOCLOUD and LiveKit behind a repository boundary, plus independent Appwrite, WebSocket, and ZIM real-time channels.</p>
+      <p><code>Flutter</code> <code>Cubit</code> <code>GetIt</code> <code>ZEGOCLOUD</code> <code>LiveKit</code> <code>Appwrite</code></p>
+      <a href="https://play.google.com/store/apps/details?id=com.bwmatbw.lklklivechatapp">View on Google Play →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Wolfera</h3>
+      <p><strong>Bilingual car marketplace · Android + iOS</strong></p>
+      <p>Built AR/EN marketplace flows with Supabase RLS, multi-provider authentication, real-time buyer–seller chat, 15+ search filters, TFLite moderation, and targeted FCM alerts.</p>
+      <p><code>Flutter</code> <code>Supabase</code> <code>Firebase</code> <code>GoRouter</code> <code>Freezed</code> <code>TFLite</code></p>
+      <a href="https://play.google.com/store/apps/details?id=com.wolfera.wolfera">View on Google Play →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Quran Ahmed Karasi</h3>
+      <p><strong>Offline Quran reader and audio · Android + iOS</strong></p>
+      <p>Designed an explicit eight-phase audio state machine with audio focus, speed, repeat, sleep timer, secure URL validation, and targeted rebuild control for smooth playback UI.</p>
+      <p><code>Flutter</code> <code>Cubit</code> <code>just_audio</code> <code>audio_session</code> <code>background_downloader</code></p>
+      <a href="https://apps.apple.com/app/id6759857104">App Store →</a> · <a href="https://play.google.com/store/apps/details?id=com.ahmadkarasi.quran">Google Play →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Archiving Office</h3>
+      <p><strong>On-device document scanning and OCR · Production</strong></p>
+      <p>Created a dual-engine Arabic/English OCR pipeline and full PDF toolkit with memory-safe processing, full-text SQLite search, and additive-only database migrations.</p>
+      <p><code>Flutter</code> <code>ML Kit</code> <code>Tesseract</code> <code>SQLite</code> <code>PDF</code> <code>Isolates</code></p>
+      <a href="https://play.google.com/store/apps/details?id=com.werewolf.office_archiving">View on Google Play →</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>More work — Book Code</strong></summary>
+  <br />
+  <p>An offline-first digital library built as a Clean Architecture reference: isolated Hive caches, typed failures with dartz, retry with exponential backoff, debounced search, infinite scroll, and HTTPS enforcement in the in-app reader.</p>
+  <p><code>Flutter</code> <code>BLoC</code> <code>Dio</code> <code>Hive</code> <code>GetIt</code> <code>GoRouter</code> <code>dartz</code></p>
+</details>
+
+### Technical stack
 
 <div align="center">
 
-<a href="https://github.com/Mohamad-Adib-Tawil">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamad-Adib-Tawil&show_icons=true&theme=tokyonight" width="32.5%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Adib-Tawil&layout=compact&theme=tokyonight" width="32.5%"/>
-<img src="https://streak-stats.demolab.com?user=Mohamad-Adib-Tawil&theme=tokyonight&date_format=j%20M%5B%20Y%5D" width="32.5%"/>
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamad-Adib-Tawil&theme=github-compact" />
-
-</details>
-  
-</div>
-
-<hr/>
-
-## Experience
-
-- Freelance Flutter Developer (2022 – Present)
-  - Owned end-to-end Flutter delivery from requirements to deployment and post-launch iteration.
-  - Shipped 4 production apps with 1,000+ total downloads and 4+ average rating.
-  - Optimized LKLK social audio to sustain 1000+ concurrent users with <100ms latency.
-  - Built offline Arabic–English OCR pipeline (−40% processing time via preprocessing).
-  - Implemented Supabase Auth + real-time chat in Wolfera (↑60% engagement).
-
-## Selected Projects
-
-- **LKLK (Live Chat App)** — Social audio with real-time rooms, synchronized gifting animations, Zego Cloud streaming, Appwrite/REST backend, smart caching. Published on Google Play: [Download](https://play.google.com/store/apps/details?id=com.bwmatbw.lklklivechatapp)
-- **Wolfera** — Car marketplace with Supabase (Auth/Realtime/Storage), Google Sign-In/Maps, bilingual UI, and live chat.
-- **Code Book** — Offline-first reading app (Clean Architecture, BLoC, GetIt, Hive). Open Library + Dio with retry and pagination, WebView previews.
-- **Office Archiving** — Offline bilingual OCR (ML Kit/Tesseract), enhanced preprocessing, multi-page PDF, full-text search, translation/summarization. Published: [Download](https://play.google.com/store/apps/details?id=com.werewolf.office_archiving)
-
-## Core Skills
-
-- Flutter & Dart (Expert) • Clean Architecture & SOLID
-- State Management: BLoC/Cubit, GetIt DI
-- Real-time: Zego Cloud, WebSocket, Supabase Realtime
-- Backend Integration: Supabase, Firebase, Appwrite, REST APIs
-- AI & ML: ML Kit, Tesseract OCR (AR/EN), Image Processing
-- Performance: Memory optimization (−60%), FPS improvement (+100%)
-- DevOps: CI/CD (GitHub Actions, Fastlane), Flavors, Automated deployments
-
-## Education
-
-- University of Aleppo — Diploma in Computer Engineering, Software Engineering Track (Jun 2020 – Aug 2022) | GPA: 82.89%
-  - Relevant Coursework: C#, Data Structures, Algorithms, OOP, DB Systems, Software Engineering
-  - Final Project: Multi-platform “Helping platform” for programming education (web/Windows/mobile)
-
-## Achievements
-
-- LKLK: 1000+ concurrent users, 60% memory reduction, 100% FPS boost, 99.9% uptime
-- Wolfera: 260+ features across 10 modules with real-time chat and bilingual UI
-- Office Archiving: Offline bilingual OCR with 90%+ accuracy, PDF batch processing, AI translation
-- Code Book: Offline-first reading app with Clean Architecture and repository pattern
-- 4 published apps on Google Play with 1,000+ downloads and 4+ star rating
-
-## Services Offered
-
-- End-to-end mobile app development (iOS & Android)
-- Real-time features: live audio/video, chat, synchronized animations
-- AI integrations: OCR, ML Kit, image processing, text analysis, translation
-- Performance optimization: memory reduction, FPS improvements, adaptive scaling
-- Backend architecture: Supabase, Firebase, Appwrite, custom APIs, WebSocket
-- CI/CD setup: automated pipelines, testing, deployment, monitoring
-
-<hr/>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
-<div align="center" width="50">
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=67E8F9)
+![Dart](https://img.shields.io/badge/Dart-111827?style=flat-square&logo=dart&logoColor=67E8F9)
+![BLoC](https://img.shields.io/badge/BLoC_%2F_Cubit-111827?style=flat-square&logo=bloc&logoColor=67E8F9)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=34D399)
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FBBF24)
+![Appwrite](https://img.shields.io/badge/Appwrite-111827?style=flat-square&logo=appwrite&logoColor=F472B6)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=67E8F9)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=github-actions&logoColor=67E8F9)
 
 </div>
 
-<hr/>
+```dart
+const engineeringFocus = {
+  'architecture': ['Clean Architecture', 'SOLID', 'feature-based modules'],
+  'state': ['BLoC', 'Cubit', 'Freezed'],
+  'data': ['REST', 'Dio', 'WebSockets', 'offline-first caching'],
+  'platforms': ['Android', 'iOS', 'Arabic RTL', 'English'],
+  'delivery': ['Flavors', 'CI/CD', 'Google Play', 'App Store'],
+};
+```
+
+### Experience and foundation
+
+- **Flutter Developer — Freelance & Contract** · July 2022–Present<br />
+  Delivered 5+ production applications across social audio, marketplace, document management, and content domains.
+
+- **Android Developer — University & Independent Projects** · 2022<br />
+  Built programming-education experiences with curated tracks, runnable code, and auto-graded quizzes.
+
+- **Diploma in Computer Engineering — University of Aleppo** · 2020–2022<br />
+  Software Engineering track · GPA **82.89%**.
+
+### GitHub activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamad-Adib-Tawil&amp;show_icons=true&amp;hide_border=true&amp;bg_color=070B12&amp;title_color=67E8F9&amp;text_color=CBD5E1&amp;icon_color=34D399" width="49%" alt="Mohamad's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Adib-Tawil&amp;layout=compact&amp;hide_border=true&amp;bg_color=070B12&amp;title_color=67E8F9&amp;text_color=CBD5E1" width="49%" alt="Mohamad's most used languages" />
+</div>
+
+---
+
+<div align="center">
+  <p><strong>Have a mobile product that needs to be built, stabilized, or scaled?</strong></p>
+  <p><a href="mailto:mohamad.adib.tawil@gmail.com">Start a conversation</a> · <a href="https://www.linkedin.com/in/mohamad-adib-tawil-54024b314/">Connect on LinkedIn</a></p>
+  <sub>Syria · Available for remote collaboration</sub>
+</div>
